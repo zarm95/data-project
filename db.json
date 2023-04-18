@@ -54,6 +54,30 @@
             "price": 500,
             "image_url": "https://acnhapi.com/v1/images/art/common_painting",
             "museum-desc": "The signature piece from Millet, who was known for depicting the lives of commoners in the 19th century.Notice the abundant crops visible in the background relative to the meager wheat remaining for workers.This art served as social commentary in a time of great inequality."
+        },
+        {
+            "id": 8,
+            "name": "detailed painting",
+            "rating": 4,
+            "price": 1500,
+            "image_url": "https://acnhapi.com/v1/images/art/detailed_painting",
+            "museum-desc": "A detailed, colorful, and dynamic piece by Itō Jakuchū, a successful Kyoto artist in the mid-Edo period. High-quality paints on silk help it maintain its brilliant color even now, 200 years after its creation."
+        },
+        {
+            "id": 9,
+            "name": "dynamic painting",
+            "rating": 3,
+            "price": 900,
+            "image_url": "https://acnhapi.com/v1/images/art/dynamic_painting",
+            "museum-desc": "The signature piece of ukiyo-e artist Katsushika Hokusai, painted as part of a series when he was in his 60s. Although it is dubbed \"Thirty-Six Views,\" he eventually added 10 more to make 46 in total."
+        },
+        {
+            "id": 10,
+            "name": "familiar statue",
+            "rating": 5,
+            "price": 2000,
+            "image_url": "https://acnhapi.com/v1/images/art/familiar_statue",
+            "museum-desc": "This bronze sculpture was crafted by the French sculptor Rodin, known as the father of modern sculpture. The incredibly famous original is located in France. The sculpture was casted over 20 times. As such, authentic pieces can be found all around the world."
         }
     ]
 }
