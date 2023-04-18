@@ -30,7 +30,14 @@
             "price": 1450,
             "image_url": "https://acnhapi.com/v1/images/art/basic_painting",
             "museum-desc": "Gainsborough was known for his innovative use of colors in his traditional portraits, like this one. Although he preferred painting landscapes, his portraits would be the defining work of his career."
-        }
+        },
+        {
+            "id": 5,
+            "name": "beautiful statue",
+            "rating": 5,
+            "price": 1000,
+            "image_url": "https://acnhapi.com/v1/images/art/beautiful_statue"
+        },
         {
             "id": 5,
             "name": "beautiful statue",
