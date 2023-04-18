@@ -36,14 +36,24 @@
             "name": "beautiful statue",
             "rating": 5,
             "price": 1000,
-            "image_url": "https://acnhapi.com/v1/images/art/beautiful_statue"
+            "image_url": "https://acnhapi.com/v1/images/art/beautiful_statue",
+            "museum-desc": "A statue of the Roman goddess of love and beauty, Venus was found on the island of Milos. This beautiful sculpture makes many wonder what her original pose might have been."
         },
         {
-            "id": 5,
-            "name": "beautiful statue",
-            "rating": 5,
-            "price": 1000,
-            "image_url": "https://acnhapi.com/v1/images/art/beautiful_statue"
+            "id": 6,
+            "name": "calm painting",
+            "rating": 3,
+            "price": 2500,
+            "image_url": "https://acnhapi.com/v1/images/art/calm_painting",
+            "museum-desc": "Seurat, known as the founder of neo-impressionism, invented the use of brightly colored dots. His method, which does not involve mixing pigments, took time. This piece, for instance, took two years. It shows a crowd enjoying a day off at the river Seine in France."
+        },
+        {
+            "id": 7,
+            "name": "common_painting",
+            "rating": 2,
+            "price": 500,
+            "image_url": "https://acnhapi.com/v1/images/art/common_painting",
+            "museum-desc": "The signature piece from Millet, who was known for depicting the lives of commoners in the 19th century.Notice the abundant crops visible in the background relative to the meager wheat remaining for workers.This art served as social commentary in a time of great inequality."
         }
     ]
 }
