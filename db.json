@@ -36,7 +36,7 @@
             "name": "beautiful statue",
             "rating": 5,
             "price": 1000,
-            "image_uri": "https://acnhapi.com/v1/images/art/beautiful_statue"
+            "image_url": "https://acnhapi.com/v1/images/art/beautiful_statue"
         }
     ]
 }
