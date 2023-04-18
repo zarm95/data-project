@@ -1,0 +1,28 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "marzouk",
+            "domaine": "backend",
+            "image": "https://i.dummyjson.com/data/products/81/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "florant",
+            "domaine": "frontend",
+            "image": "https://i.dummyjson.com/data/products/81/1.jpg"
+        }
+    ],
+    "company": [
+        {
+            "nome": "IBM",
+            "lieu": "villeneuve d'ascq",
+            "activity": "devWeb"
+        },
+        {
+            "nome": "sunCompany",
+            "lieu": "villeneuve ",
+            "activity": "devWeb"
+        }
+    ]
+}
